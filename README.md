@@ -1,5 +1,6 @@
 # HTV coins
 A simple script to claim htv coin rewards remotely. Basically a bash script ported from [here](#credits)
+
 EDITED to run every 20 minutes instead of every 3 hours.
 
 ## Running locally
